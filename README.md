@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm MH09, a cybersecurity enthusiast and student. I enjoy exploring various aspects of cybersecurity, including penetration testing, ethical hacking, and digital forensics.
+Hello! I'm MH09, a cybersecurity enthusiast and student. I enjoy exploring various aspects of cybersecurity, including penetration testing, ethical hacking, and digital forensics. I'm also an avid CTF player.
 
 ## TryHackMe
 
@@ -22,7 +22,6 @@ You can find my TryHackMe profile [here](https://tryhackme.com/p/MH09). I active
 ## Contact Me
 
 If you'd like to reach out or collaborate on cybersecurity projects, you can contact me via:
-- Email: [your@email.com](mailto:your@email.com)
-- LinkedIn: [MH09](https://linkedin.com/in/MH09)
+- Unknown
 
 Looking forward to connecting with fellow cybersecurity enthusiasts and professionals!
